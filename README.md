@@ -1,6 +1,6 @@
 # HashTable
 
-This is the implementation of Hash Table in C++.  Where we can insert, delete, serach & display integers. 
+This is the implementation of Hash Table in C++ where we can insert, delete, serach & display integers. 
 
 If there is no collision searching can be done in O(1) time.
 
